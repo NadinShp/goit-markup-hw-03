@@ -210,6 +210,7 @@ h3 {
 /*=================OUR TEAM====================== */
 .team {
   padding: 94px 0px;
+  background-color: var(--color-button);
 }
 .title {
   margin-bottom: 50px;
